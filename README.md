@@ -1,1 +1,1 @@
-# DS---application-of-digital-filters
+# DSP-application-of-digital-filters
